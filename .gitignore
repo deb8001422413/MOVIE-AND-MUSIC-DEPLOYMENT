@@ -1,0 +1,13 @@
+*.csv
+*.zip
+*.ipynb
+
+similarity.pkl
+music_similarity.pkl
+movies_data.pkl
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.gitattributes
